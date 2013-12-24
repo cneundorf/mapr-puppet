@@ -1,0 +1,7 @@
+#  class {'mapr::clustershell': }
+#  class {'mapr::disksetup': }
+#  class {'mapr::enable_services': }
+#  class {'mapr::disable_services': }
+#  class {'mapr::create_metrics_schema': }
+  class {'mapr::repos': }
+

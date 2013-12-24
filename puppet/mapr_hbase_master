@@ -1,0 +1,2 @@
+class {'mapr::hbase': }
+class {'mapr::hbase-master': }

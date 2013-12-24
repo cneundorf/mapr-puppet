@@ -1,0 +1,29 @@
+{
+  "name": "spiette-sysadmin",
+  "version": "0.2.1",
+  "source": "http://github.com/spiette/puppet-sysadmin",
+  "author": "Simon Piette <simon.piette@savoirfairelinux.com>",
+  "license": "Apache License, Version 2.0",
+  "summary": "Install common sysadmin utilities",
+  "description": "Install common sysadmin utilities",
+  "project_page": "http://github.com/spiette/puppet-sysadmin",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Gemfile": "7f1a8c9be7f31126e881faac3ac288dc",
+    "LICENSE": "2a944942e1496af1886903d274dedb13",
+    "Modulefile": "519ce4da37c4efb1caa51f203174dfec",
+    "README.markdown": "f6111eba7b03c4e05049ee8ae535da9e",
+    "Rakefile": "c8fc714da521062403ae441ab6e6a497",
+    "manifests/init.pp": "0f5a1cf53a1527b08d18b4ee8a32f19f",
+    "manifests/params.pp": "f48601106402ec2846091f0ae111707c",
+    "spec/classes/sysadmin_spec.rb": "a248a02d0b17da627744b5f77b1abd46",
+    "spec/spec.opts": "dff556e20d9f6f4aee29655b3bb55ee4",
+    "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+    "tests/init.pp": "fdbc5671dabd0cbb5638df17dfdb7e16"
+  }
+}

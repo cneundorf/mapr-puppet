@@ -1,0 +1,8 @@
+$java_home = "/opt/java_home"
+file { "/opt/mapr/conf/env.sh":
+        owner   => 'mapr',
+        group   => 'mapr',
+        mode    => '0644',
+        content => template('/etc/puppet/modules/mapr/templates/env.sh.erb'),
+}
+

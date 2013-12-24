@@ -1,0 +1,9 @@
+    class {'mapr::tasktracker': }
+    class {'mapr::fileserver': }
+    class {'mapr::nfs': }
+    class {'mapr::environment': }
+    #class {'mapr::disable_services': }
+    class {'mapr::configure': }
+    class {'mapr::disksetup': }
+    class {'mapr::enable_services': }
+#

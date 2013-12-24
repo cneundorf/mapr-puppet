@@ -1,0 +1,3 @@
+class {'mapr::hbase': }
+class {'mapr::hbase-regionserver': }
+

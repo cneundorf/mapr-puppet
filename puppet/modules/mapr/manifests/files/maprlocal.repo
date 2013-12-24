@@ -1,0 +1,13 @@
+[maprtech]
+name=MapR Technologies
+baseurl=http://mgmt/v3.0.1
+enabled=1
+gpgcheck=0
+protect=1
+ 
+[maprecosystem]
+name=MapR Technologies
+baseurl=http://mgmt/ecosystem
+enabled=1
+gpgcheck=0
+protect=1
